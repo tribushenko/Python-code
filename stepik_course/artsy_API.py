@@ -1,8 +1,5 @@
 # artsy.net: password = edcrfv123321Artem
 # Name	artsy_app
-# Client Id	de25c063656ba5a2f0b1
-# Client Secret	f48c6dde95c6fa9f484f4670c36b1e1e
-# Get a Token curl -v -X POST "https://api.artsy.net/api/tokens/xapp_token?client_id=de25c063656ba5a2f0b1&client_secret=f48c6dde95c6fa9f484f4670c36b1e1e"
 
 import requests
 import json
